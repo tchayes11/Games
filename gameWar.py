@@ -2,6 +2,8 @@
 
 import random
 
+print("Welcome")
+
 def generate_deck(suits = 4, typeCards =13):
     cards = []
     for suite in range(suits):
